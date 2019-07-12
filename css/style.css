@@ -1265,7 +1265,7 @@ footer {
 /* //team */
 .cliptop-blog-fusion {
 	-webkit-clip-path: polygon(0 6%, 100% 0, 100% 94%, 0 100%);
-	clip-path: polygon(0 15%, 100% 0, 100% 80%, 0 100%);
+	clip-path: polygon(0 15%, 100% 0, 100% 86%, 0 100%);
 	padding: 12em 0 15em;
 	background: -webkit-linear-gradient(top right, #00d8c2, #0068b7);
 	background: #EB5470;
